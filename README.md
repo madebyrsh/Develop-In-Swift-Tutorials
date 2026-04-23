@@ -2,8 +2,8 @@
 ### _Learning Log & Reflection Archive_
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Swift-5.9-orange?style=for-the-badge&logo=swift">
-  <img src="https://img.shields.io/badge/Xcode-15-blue?style=for-the-badge&logo=xcode">
+  <img src="https://img.shields.io/badge/Swift-Language-orange?style=for-the-badge&logo=swift">
+  <img src="https://img.shields.io/badge/Xcode-IDE-blue?style=for-the-badge&logo=xcode">
   <img src="https://img.shields.io/badge/Platform-iOS-lightgrey?style=for-the-badge&logo=apple">
   <img src="https://img.shields.io/badge/Status-Learning-green?style=for-the-badge">
 </p>
